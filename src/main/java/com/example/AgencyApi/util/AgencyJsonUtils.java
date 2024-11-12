@@ -1,5 +1,5 @@
 package com.example.AgencyApi.util;
-import com.example.AgencyApi.mode1.Agency;
+import com.example.AgencyApi.model.Agency;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;

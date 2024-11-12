@@ -1,4 +1,4 @@
-package com.example.AgencyApi.mode1;
+package com.example.AgencyApi.model;
 
 import jakarta.validation.constraints.NotBlank;
 
