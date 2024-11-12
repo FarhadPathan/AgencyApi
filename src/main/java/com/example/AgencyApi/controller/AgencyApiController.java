@@ -1,6 +1,6 @@
 package com.example.AgencyApi.controller;
 
-import com.example.AgencyApi.mode1.Agency;
+import com.example.AgencyApi.model.Agency;
 import com.example.AgencyApi.service.AgencyService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

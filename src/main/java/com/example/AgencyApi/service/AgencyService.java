@@ -1,6 +1,6 @@
 package com.example.AgencyApi.service;
 
-import com.example.AgencyApi.mode1.Agency;
+import com.example.AgencyApi.model.Agency;
 import com.example.AgencyApi.util.AgencyJsonUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -63,7 +63,7 @@ public class AgencyService {
 /*
 package com.example.AgencyApi.service;
 
-import com.example.AgencyApi.mode1.Agency;
+import com.example.AgencyApi.model.Agency;
 import com.example.AgencyApi.util.AgencyJsonUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
